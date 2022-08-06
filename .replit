@@ -1,2 +1,5 @@
 language = "bash"
 run = "chmod +x run.sh;./run.sh"
+
+[nix]
+channel = "stable-22_05"
